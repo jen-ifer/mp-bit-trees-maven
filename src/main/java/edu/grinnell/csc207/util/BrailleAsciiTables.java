@@ -5,9 +5,9 @@ import java.io.InputStream;
 import java.io.IOException;
 
 /**
+ * Converts Braille to ascii
  *
- *
- * @author Your Name Here
+ * @author Jenifer Silva
  * @author Samuel A. Rebelsky
  */
 public class BrailleAsciiTables {
